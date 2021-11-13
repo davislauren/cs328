@@ -1211,3 +1211,4 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.11.13-17.12.52:960][997]SourceControl:  create mode 100644 Content/2DSideScrollerBP/2DSideScrollerOverview.uasset
 [2021.11.13-17.12.52:960][997]SourceControl:  create mode 100644 CrimsonSun.uproject
 [2021.11.13-17.12.52:963][997]SourceControl: Commited [master (root-commit) 3cb8f7f] Initial creation.
+[2021.11.13-17.50.08:252][553]LogSlate: Window 'Source Control Login' being destroyed
